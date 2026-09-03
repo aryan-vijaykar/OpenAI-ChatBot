@@ -36,10 +36,10 @@ By implementing DevSecOps practices and leveraging modern technologies like Kube
 
 1. Clone the GitHub repository.
 
-**GITHUB REPO**: [Chatbot-UI](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-28/Chatbot-UI)
+**GITHUB REPO**: [Chatbot-UI]
 
 ```
-git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-28/Chatbot-UI
+git clone [https://github.com/aryan-vijaykar/OpenAI-ChatBot]
 cd Jenkins-Server-TF
 ```
 
