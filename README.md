@@ -436,7 +436,7 @@ pipeline{
     stages {
         stage('Checkout from Git'){
             steps{
-                git branch: 'master', url: 'https://github.com/NotHarshhaa/DevOps-Project-28/Chatbot-UI.git'
+                git branch: 'master', url: 'https://github.com/aryan-vijaykar/OpenAI-ChatBot'
             }
         }
         stage('Install Dependencies') {
